@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotonPUNDemo.Plugins", "PhotonPUNDemo.Plugins.csproj", "{D61F8D6D-D8FD-550E-9C8E-250A3BABF10A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotonPUNDemo", "PhotonPUNDemo.csproj", "{363F9CD8-82E0-E68C-F29F-05C9ADE87975}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotonPUNDemo.Editor", "PhotonPUNDemo.Editor.csproj", "{16AE0CAA-3587-E181-7453-4BC5B8B403F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D61F8D6D-D8FD-550E-9C8E-250A3BABF10A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D61F8D6D-D8FD-550E-9C8E-250A3BABF10A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D61F8D6D-D8FD-550E-9C8E-250A3BABF10A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D61F8D6D-D8FD-550E-9C8E-250A3BABF10A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{363F9CD8-82E0-E68C-F29F-05C9ADE87975}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{363F9CD8-82E0-E68C-F29F-05C9ADE87975}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{363F9CD8-82E0-E68C-F29F-05C9ADE87975}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{363F9CD8-82E0-E68C-F29F-05C9ADE87975}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16AE0CAA-3587-E181-7453-4BC5B8B403F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16AE0CAA-3587-E181-7453-4BC5B8B403F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16AE0CAA-3587-E181-7453-4BC5B8B403F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16AE0CAA-3587-E181-7453-4BC5B8B403F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
